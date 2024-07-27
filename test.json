@@ -1,0 +1,33 @@
+{
+  "statusCode": "0",
+  "statusMessage": "\"Success\"",
+  "cDetail": [
+    {
+      "name": "LOCO_IN_SHOPPED_DTTM",
+      "type": "1",
+      "length": "8",
+      "label": "LOCO_IN_SHOPPED_DTTM",
+      "format": "DATETIME",
+      "label_name": "LOCO_IN_SHOPPED_DTTM",
+      "label_show": "0"
+    },
+    {
+      "name": "SCRUB_M",
+      "type": "2",
+      "length": "50",
+      "label": "SCRUB_M",
+      "format": "$",
+      "label_name": "SCRUB_M",
+      "label_show": "0"
+    },
+    {
+      "name": "WOX_N3",
+      "type": "1",
+      "length": "8",
+      "label": "WOX_N3",
+      "format": "",
+      "label_name": "WOX_N3",
+      "label_show": "0"
+    }
+  ]
+}
